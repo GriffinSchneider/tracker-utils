@@ -2,7 +2,7 @@
 
 var _ = require('lodash');
 var humanizeDuration = require('humanize-duration');
-var data = require(require('expand-tilde')('~/Dropbox/Apps/gtracker/data.json')).events;
+var data = require('./data');
 
 var chosenState = process.argv[2];
 
