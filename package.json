@@ -1,0 +1,12 @@
+{
+  "name": "tracker-utils",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expand-tilde": "^1.2.2",
+    "humanize-duration": "^3.9.0",
+    "lodash": "^4.13.1"
+  }
+}
